@@ -219,10 +219,10 @@ section{
 
 .about-content h2{
   font-size: 4rem;
-  text-align: left; 
+  text-align: center; 
 }
 .about-content p{
-  font-size: 1.8rem;
+  font-size: 2.2rem;
 }
 .about-content .btn{
   margin: 3rem 0;
