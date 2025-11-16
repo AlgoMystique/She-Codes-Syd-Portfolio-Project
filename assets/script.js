@@ -19,4 +19,3 @@ function showPage(pageNumber) {
   }
 }
 
-// Example usage: showPage(2); // This will hide all pages and show only page 2
