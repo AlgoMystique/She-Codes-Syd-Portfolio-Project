@@ -16,19 +16,16 @@ The website is made up of three main pages:
 
 I also added links to my **GitHub** and **LinkedIn** profiles so users can explore more of my work and professional background.
 
----
 
-## 📄 Content Requirements
+## 📄 Contents
 
-This portfolio meets all the required content elements:
+This portfolio includes the below content elements:
 
-- [x] Profile picture included  
+- [x] Profile picture 
 - [x] 100+ word biography  
 - [x] Working contact form (Basin)  
 - [x] Projects section  
-- [x] Links to external sites (GitHub, LinkedIn)
-
----
+- [x] Links to external sites (GitHub, LinkedIn, DevCommunity)
 
 ## 🛠️ Technical Features
 
@@ -41,14 +38,6 @@ The site is built with a focus on clean structure and maintainability:
 - Deployed via **GitHub Pages**  
 - Includes **three web pages** (Home, Projects, Contact)
 
-- [x] At least 2 web pages  
-- [x] Git version control  
-- [x] GitHub Pages deployment  
-- [x] Responsive layout  
-- [x] Semantic HTML tags
-
----
-
 ## ✨ Bonus Features
 
 To enhance the user experience, I added:
@@ -57,10 +46,6 @@ To enhance the user experience, I added:
 - **JavaScript interactions**, including the responsive hamburger menu  
 - Consistent, minimal visual design across all pages  
 
-- [x] Interactive visual states  
-- [x] JavaScript dynamic elements
-
----
 
 ## Screenshots
 
