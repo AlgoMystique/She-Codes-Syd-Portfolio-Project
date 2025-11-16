@@ -1,6 +1,6 @@
 # Sababa Tasnim – Portfolio Website
 
-[View the Live Site](link_to_your_site)
+[View the Live Site](https://algomystique.github.io/SC-Portfolio-Project/)
 
 This repository contains my personal portfolio website, built to showcase my background, projects, and contact details in a clean and approachable way. The site focuses on simplicity, accessibility, and responsiveness, ensuring it works well across all screen sizes. I designed it with a minimal aesthetic, using soft colours and clear typography to keep the content easy to read and navigate.
 
