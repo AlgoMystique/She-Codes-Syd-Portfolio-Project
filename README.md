@@ -86,3 +86,11 @@ To enhance the user experience, I added:
 
 #### Button Hover State
 ![Button hover](./screenshots/button-hover.png)
+
+---
+
+If you like what you see, let’s connect!  
+
+- [LinkedIn](https://www.linkedin.com/in/sababat)  
+- [GitHub](https://github.com/AlgoMystique)
+- Or send me a message via the contact form on the site.
