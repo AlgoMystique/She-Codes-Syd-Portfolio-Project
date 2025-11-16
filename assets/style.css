@@ -247,13 +247,20 @@ section{
 /*styling projects */
 .projects{
   background-color: var(--second-bg-color);
+  padding-top: 20rem;
+}
+.projects h2{
+  margin-bottom: 5rem;
+  color: var(--test-color);
+  font-size: 3rem;
+  text-align: center;
 }
 .projects-box{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   place-items: center;
-  gap: 2.5rem; 
-  row-gap: 4rem;
+  gap: 2.5rem 2.5rem; 
+place-items: stretch;
 }
 .project-card{
   display: flex;
@@ -291,11 +298,23 @@ section{
 /*styling contact form*/
 
 .contact{
-  margin-bottom: -50;
+ padding-top: 20rem; 
+
 }
 .contact h2{
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
   color: var(--test-color);
+  font-size: 3rem;
+  text-align: center;
+}
+.contact p {
+  color: var(--test-color);
+  font-size: 2.2rem;
+  line-height: 1.6;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto 3rem auto;
+
 }
 .contact form{
   display: flex;
