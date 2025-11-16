@@ -62,11 +62,42 @@ To enhance the user experience, I added:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-Add screenshots showing the site on mobile, tablet, and desktop.  
-Place them inside a `/screenshots` folder and reference them like this:
+### 1️⃣ Desktop Version
 
-```md
-#### Homepage – Desktop
-![Homepage desktop](./screenshots/home-desktop.png)
+
+#### Home – Desktop
+![Home desktop](./screenshots/desktop1.png)
+
+#### Projects – Desktop
+![Projects desktop](./screenshots/desktop2.png)
+
+#### Contact – Desktop
+![Contact desktop](./screenshots/desktop3.png)
+
+---
+
+### 2️⃣ Mobile Version
+
+
+#### Home – Mobile
+![Home mobile](./screenshots/mobile1.png)
+
+#### Projects – Mobile
+![Projects mobile](./screenshots/mobile2.png)
+
+#### Contact – Mobile
+![Contact mobile](./screenshots/mobile3.png)
+
+---
+
+### 3️⃣ Special Effects / Interactions
+
+
+
+#### Hamburger Menu Open
+![Hamburger menu](./screenshots/hamburger-open.png)
+
+#### Button Hover State
+![Button hover](./screenshots/button-hover.png)
