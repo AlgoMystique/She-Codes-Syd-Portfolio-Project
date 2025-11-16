@@ -45,19 +45,6 @@ body {
   color: var(--main-color);
   display: none;
 }
-.logo{
-  font-size: 3rem;
-  color: var(--test-color);
-  font-weight: 800;
-  cursor: pointer;
-  transition: 0.3s ease-in-out;
-}
-.logo:hover{
-  transform: scale(1.1);
-}
-.logo span{
-  text-shadow: 0 0 25px var(--main-color);
-}
 
 span{
   background: linear-gradient(
@@ -83,7 +70,9 @@ span{
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
-.gradient-btn{
+
+ .gradient-btn{
+
   font-size: 1.8rem;
   padding: 1rem 2rem;
   border-radius: 3rem;
@@ -399,6 +388,7 @@ place-items: stretch;
   #menu-icon{
 
     display: block;
+    cursor: pointer;
   }
 
   .navbar {
@@ -411,6 +401,13 @@ place-items: stretch;
     border-bottom-left-radius: 2rem;
     border-left: 2px solid var(--main-color);
     border-bottom: 2px solid var(--main-color);
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+
+
+  .navbar.active {
+    transform: translateX(0); 
   }
   .navbar a{
     display: block;
@@ -418,10 +415,8 @@ place-items: stretch;
     margin: 3rem 0;
     color: var(--text-color);
   }
-  
-  .navbar .active{
-    display: block;
-  }
+ 
+
   .gradient-btn{
     display: none;
   }
